@@ -1,0 +1,7 @@
+4$d4$d4$ 
+
+Panjang Karakter Kalimat Asli : 8
+Jumlah Huruf Vokal Kalimat Asil : 3
+
+Panjang Karakter Kalimat Setelah dienkripsi : 8
+Jumlah Huruf Vokal Kalimat Setelah dienkripsi : 0
